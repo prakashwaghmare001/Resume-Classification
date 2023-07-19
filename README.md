@@ -1,7 +1,8 @@
 <div align="center">
     <h1>Resume Classification</h1>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thedigitalgroup.com%2Fproducts%2Fdigital-resume-parser%2F&psig=AOvVaw2NQvkJQdECMIhpvmXmufY1&ust=1689823915742000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi4ipTrmYADFQAAAAAdAAAAABAE">
-  </a>
+    <a>
+    <img src="https://www.thedigitalgroup.com/products/digital-resume-parser/assets/img/laptop-analytics.png">
+    </a>
 </div>
 
 
