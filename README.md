@@ -34,5 +34,6 @@ Used Python's libraries to implement various NLP techniques like tokenization, l
 
 
 ## Models Accuracy
-![Screenshot](C:\\Users\pc\Pictures\Saved Pictures\Capture.PNG)
+
+<img width="215" alt="Capture" src="https://github.com/prakashwaghmare001/Resume-Classification/assets/127089552/4e5fcc41-2bd3-40b2-95cf-b94b62f4a7d7">
 
