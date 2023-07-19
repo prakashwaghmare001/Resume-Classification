@@ -1,8 +1,8 @@
 <div align="center">
-    <h1>Resume Classification</h1>
     <a>
     <img src="https://www.thedigitalgroup.com/products/digital-resume-parser/assets/img/laptop-analytics.png">
     </a>
+    <h1>Resume Classification</h1>
 </div>
 
 
@@ -34,4 +34,5 @@ Used Python's libraries to implement various NLP techniques like tokenization, l
 
 
 ## Models Accuracy
+![Screenshot](C:\\Users\pc\Pictures\Saved Pictures\Capture.PNG)
 
