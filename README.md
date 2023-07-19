@@ -2,6 +2,7 @@
     <h1>Resume Classification</h1>
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thedigitalgroup.com%2Fproducts%2Fdigital-resume-parser%2F&psig=AOvVaw2NQvkJQdECMIhpvmXmufY1&ust=1689823915742000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi4ipTrmYADFQAAAAAdAAAAABAE">
   </a>
+</div>
 
 
 <p>A resume is a brief summary of your skills and experience. Companies recruiters and HR teams have a tough time scanning thousands of qualified resumes. Spending too many labor hours segregating candidates resume's manually is a waste of a company's time, money, and productivity. Recruiters, therefore, use resume classification in order to streamline the resume and applicant screening process. NLP technology allows recruiters to electronically gather, store, and organize large quantities of resumes. Once acquired, the resume data can be easily searched through and analyzed.
